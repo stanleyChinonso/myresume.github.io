@@ -242,6 +242,23 @@ a:hover {
 }
 
 
+.projects-body li {
+	list-style: none;
+	
+}
+
+.projects-body li h4 {
+	margin-top: 15px;
+	color: #000;
+	letter-spacing: 2px;
+	word-spacing: 1px;
+	
+}
+
+.project-tail li {
+	list-style:circle
+}
+
 .work-head {
     display: -webkit-box;
     display: -ms-flexbox;
